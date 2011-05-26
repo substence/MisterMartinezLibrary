@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.mistermartinez.entities.BoundAdvancedSpatialEntity"/>
+    <classEntry path="com.mistermartinez.entities.Entity"/>
+    <classEntry path="com.mistermartinez.entities.VisibleEntity"/>
+    <classEntry path="com.mistermartinez.interfaces.IEntity"/>
+    <classEntry path="com.mistermartinez.interfaces.IComponent"/>
+    <classEntry path="com.mistermartinez.interfaces.IUserInterface"/>
+    <classEntry path="com.mistermartinez.interfaces.ISpatial"/>
+    <classEntry path="com.mistermartinez.interfaces.IDrawable"/>
+    <classEntry path="com.mistermartinez.interfaces.IUpdatable"/>
+    <classEntry path="com.mistermartinez.interfaces.IAdvancedSpatial"/>
+    <classEntry path="com.mistermartinez.math.Vector2D"/>
+    <classEntry path="com.mistermartinez.utils.InputHandler"/>
+    <classEntry path="com.mistermartinez.utils.QuickFrameTimer"/>
+    <classEntry path="com.mistermartinez.utils.FrameTimer"/>
+    <classEntry path="com.mistermartinez.utils.UpdateHandler"/>
+    <classEntry path="com.mistermartinez.utils.UIHandler"/>
+    <classEntry path="com.mistermartinez.behaviors.Animation"/>
+    <classEntry path="com.mistermartinez.behaviors.PausableBehavior"/>
+    <classEntry path="com.mistermartinez.interfaces.IAdvancedUpdatable"/>
+    <classEntry path="com.mistermartinez.math.MathX"/>
+    <classEntry path="com.mistermartinez.utils.AdvancedSpatialManager"/>
+    <classEntry path="com.mistermartinez.interfaces.ICollidable"/>
+    <classEntry path="com.mistermartinez.core.MML"/>
+    <classEntry path="com.mistermartinez.utils.Utilities"/>
+    <classEntry path="com.mistermartinez.interfaces.IBound"/>
+    <classEntry path="com.mistermartinez.net.P2PGroup"/>
+    <classEntry path="com.mistermartinez.net.P2PUser"/>
+    <classEntry path="com.mistermartinez.utils.Group"/>
+    <classEntry path="com.mistermartinez.net.FacebookUser"/>
+    <classEntry path="com.mistermartinez.utils.Box2DHandler"/>
+    <classEntry path="com.mistermartinez.entities.b2Entity"/>
+    <classEntry path="com.mistermartinez.interfaces.IBox2D"/>
+    <classEntry path="com.mistermartinez.entities.b2VisibleEntity"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
